@@ -97898,19 +97898,19 @@ l(){var s=this.r
 s===$&&A.a()
 s.l()
 this.a63()},
-O(a5){var s=this,r=null,q=1e6,p=A.bQ(a5,r,t.w).w.a.a,o=p<620,n=o?28:34,m=o?14:18,l=o?14:16,k=o?p*0.8:300,j=A.aE_(A.wf(0,A.ro(o?"animations/login_background_animation_mobile.json":"animations/login_background_animation_desktop.json",r,B.fD,r,r,!0,r))).va(A.B6(0.5,B.er,r,A.cs(q,0),2)),i=A.wf(0,A.dK(r,r,B.w,A.aj(51,B.j.A()>>>16&255,B.j.A()>>>8&255,B.j.A()&255),r,r,r,r,r,r,r)),h=p*0.08,g=A.bX(20),f=$.V(),e=f.p6(5,5,r),d=A.bX(20),c=A.qb(B.Fj,1),b=A.bV("Welcome to",r,r,r,A.c2(r,r,B.T,r,r,r,r,r,r,r,r,m,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),a=A.bV("Trendera Shop Login",r,r,r,A.c2(r,r,B.j,r,r,r,r,r,r,r,r,n,r,r,B.as,r,r,!0,r,1.2,r,r,r,r,r,r),B.d5,r),a0=A.bV("Access shop dashboard & manage your products",r,r,r,A.c2(r,r,B.S,r,r,r,r,r,r,r,r,m,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.d5,r),a1=s.f?new A.awp():s.gakj(),a2=A.bX(30),a3=A.b([new A.bx(0,B.L,A.aj(153,B.k.A()>>>16&255,B.k.A()>>>8&255,B.k.A()&255),B.d_,8)],t.E),a4=t.p
-e=A.aE_(A.MS(g,A.up(A.dK(r,A.dv(A.b([B.fj,b,B.RF,a,B.bF,a0,B.fj,A.eV(r,A.dK(r,A.fC(A.b([A.ro("animations/google_logo.json",r,B.Cv,50,r,!0,50),B.Rz,new A.i4(1,B.jW,A.bV("Continue with Google",r,B.aM,r,A.c2(r,r,B.j,r,r,r,r,r,r,r,r,l,r,r,B.as,r,r,!0,r,0.5,r,r,r,r,r,r),r,r),r)],a4),B.a4,B.eW,B.c8),B.w,r,r,new A.cB(B.k,r,r,a2,a3,r,B.ad),r,r,r,r,k),B.a_,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,a1,r,r,r,r,r,r),B.fi,A.bV("Only shop accounts can log in here.",r,r,r,A.c2(r,r,B.j,r,r,r,r,r,r,r,r,m*0.9,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],a4),B.a4,B.eW,B.P),B.w,r,r,new A.cB(B.Fi,r,c,d,r,r,B.ad),r,r,r,B.jF,r),e),B.bz))
+O(a5){var s=this,r=null,q=1e6,p=A.bQ(a5,r,t.w).w.a.a,o=p<620,n=o?28:34,m=o?14:18,l=o?14:16,k=o?p*0.8:300,j=A.aE_(A.wf(0,A.ro(o?"assets/animations/login_background_animation_mobile.json":"assets/animations/login_background_animation_desktop.json",r,B.fD,r,r,!0,r))).va(A.B6(0.5,B.er,r,A.cs(q,0),2)),i=A.wf(0,A.dK(r,r,B.w,A.aj(51,B.j.A()>>>16&255,B.j.A()>>>8&255,B.j.A()&255),r,r,r,r,r,r,r)),h=p*0.08,g=A.bX(20),f=$.V(),e=f.p6(5,5,r),d=A.bX(20),c=A.qb(B.Fj,1),b=A.bV("Welcome to",r,r,r,A.c2(r,r,B.T,r,r,r,r,r,r,r,r,m,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),a=A.bV("Trendera Shop Login",r,r,r,A.c2(r,r,B.j,r,r,r,r,r,r,r,r,n,r,r,B.as,r,r,!0,r,1.2,r,r,r,r,r,r),B.d5,r),a0=A.bV("Access shop dashboard & manage your products",r,r,r,A.c2(r,r,B.S,r,r,r,r,r,r,r,r,m,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.d5,r),a1=s.f?new A.awp():s.gakj(),a2=A.bX(30),a3=A.b([new A.bx(0,B.L,A.aj(153,B.k.A()>>>16&255,B.k.A()>>>8&255,B.k.A()&255),B.d_,8)],t.E),a4=t.p
+e=A.aE_(A.MS(g,A.up(A.dK(r,A.dv(A.b([B.fj,b,B.RF,a,B.bF,a0,B.fj,A.eV(r,A.dK(r,A.fC(A.b([A.ro("assets/animations/google_logo.json",r,B.Cv,50,r,!0,50),B.Rz,new A.i4(1,B.jW,A.bV("Continue with Google",r,B.aM,r,A.c2(r,r,B.j,r,r,r,r,r,r,r,r,l,r,r,B.as,r,r,!0,r,0.5,r,r,r,r,r,r),r,r),r)],a4),B.a4,B.eW,B.c8),B.w,r,r,new A.cB(B.k,r,r,a2,a3,r,B.ad),r,r,r,r,k),B.a_,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,a1,r,r,r,r,r,r),B.fi,A.bV("Only shop accounts can log in here.",r,r,r,A.c2(r,r,B.j,r,r,r,r,r,r,r,r,m*0.9,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],a4),B.a4,B.eW,B.P),B.w,r,r,new A.cB(B.Fi,r,c,d,r,r,B.ad),r,r,r,B.jF,r),e),B.bz))
 d=A.cs(q,0)
 h=A.Es(!0,A.f8(A.T6(A.aK1(e.va(A.aMT(A.aju(B.e,r,1),B.es,r,d,A.aju(B.e,r,0))),A.cs(6e5,0)),new A.ay(h,0,h,0),r),r,r),!0,B.aB,!0,!0)
 g=A.q9(new A.aM(30,30))
 e=s.r
 e===$&&A.a()
-e=A.aE_(A.oH(r,A.MS(g,A.eV(r,A.dK(r,A.ro("animations/contact_us.json",e,B.fD,40,new A.awq(s),!0,150),B.w,B.k,r,r,r,r,r,r,r),B.a_,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.awr(a5),r,r,r,r,r,r),B.bz),r,r,16,r,16,r))
+e=A.aE_(A.oH(r,A.MS(g,A.eV(r,A.dK(r,A.ro("assets/animations/contact_us.json",e,B.fD,40,new A.awq(s),!0,150),B.w,B.k,r,r,r,r,r,r,r),B.a_,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.awr(a5),r,r,r,r,r,r),B.bz),r,r,16,r,16,r))
 g=A.cs(q,0)
 j=A.b([j,i,h,A.aK1(e.va(A.aMT(A.aju(B.e,-1,r),B.es,r,g,A.aju(B.e,0,r))),A.cs(6e5,0))],a4)
 if(s.f){i=f.p6(5,5,r)
 h=A.b([A.B6(r,r,r,A.cs(8e5,0),r)],t.CJ)
-j.push(A.wf(0,A.up(A.f8(A.LK(r,r,A.ro(o?"animations/mobile_loading.json":"animations/loading_hands.json",r,r,r,r,!0,r),r,r,h,r,r,r,r,r,r),r,r),i)))}return A.So(r,r,A.ha(B.bd,j,B.I,B.aQ,r),r)}}
+j.push(A.wf(0,A.up(A.f8(A.LK(r,r,A.ro(o?"assets/animations/mobile_loading.json":"assets/animations/loading_hands.json",r,r,r,r,!0,r),r,r,h,r,r,r,r,r,r),r,r),i)))}return A.So(r,r,A.ha(B.bd,j,B.I,B.aQ,r),r)}}
 A.awk.prototype={
 $0(){return this.a.f=!0},
 $S:0}
@@ -98110,10 +98110,10 @@ O(a){return A.bQ(a,null,t.w).w.a.a>=620?this.a7J(a):this.a7N(a)},
 a7J(a){var s,r=this,q=null,p=A.mL(a).IL(!1),o=A.BR(q,q,B.HL,q,q,new A.az5(a),q,q,q),n=r.Pv(r.f,B.k0,"Shop Name"),m=r.Pv(r.r,B.ok,"Shop Address"),l=r.a9C(B.Hz,r.x,"Shop Area",new A.az6(r),r.y,B.c.cA(r.w.a.a).length!==0),k=r.z,j=k?q:r.gWy()
 k=k?B.Eg:B.Xd
 s=t.p
-s=A.b([A.f8(A.fC(A.b([A.fw(new A.ce(B.GU,A.aKj(A.amN(p,A.T6(A.dv(A.b([o,B.bF,B.Xq,B.bF,B.Xf,B.fj,n,B.i9,m,B.i9,l,B.fj,A.aXh(B.HO,k,j,A.AW(q,q,B.F_,q,q,q,q,q,q,q,q,q,B.GS,q,new A.d1(A.bX(30),B.v),q,q,q,q))],s),B.a9,B.H,B.P),q,q)),r.d),q),4,q),A.fw(A.dK(q,A.f8(A.ro("animations/signup_animation.json",q,B.fD,q,q,!0,q),q,q),B.w,q,q,B.Cs,q,q,q,q,q),3,q)],s),B.a4,B.H,B.P),q,q)],s)
+s=A.b([A.f8(A.fC(A.b([A.fw(new A.ce(B.GU,A.aKj(A.amN(p,A.T6(A.dv(A.b([o,B.bF,B.Xq,B.bF,B.Xf,B.fj,n,B.i9,m,B.i9,l,B.fj,A.aXh(B.HO,k,j,A.AW(q,q,B.F_,q,q,q,q,q,q,q,q,q,B.GS,q,new A.d1(A.bX(30),B.v),q,q,q,q))],s),B.a9,B.H,B.P),q,q)),r.d),q),4,q),A.fw(A.dK(q,A.f8(A.ro("assets/animations/signup_animation.json",q,B.fD,q,q,!0,q),q,q),B.w,q,q,B.Cs,q,q,q,q,q),3,q)],s),B.a4,B.H,B.P),q,q)],s)
 if(r.z){p=$.V().p6(5,5,q)
 o=A.b([A.B6(q,q,q,A.cs(8e5,0),q)],t.CJ)
-s.push(A.wf(0,A.up(A.f8(A.LK(q,q,A.ro("animations/loading_hands.json",q,q,q,q,!0,q),q,q,o,q,q,q,q,q,q),q,q),p)))}return A.So(q,B.k,A.ha(B.bd,s,B.I,B.aQ,q),q)},
+s.push(A.wf(0,A.up(A.f8(A.LK(q,q,A.ro("assets/animations/loading_hands.json",q,q,q,q,!0,q),q,q,o,q,q,q,q,q,q),q,q),p)))}return A.So(q,B.k,A.ha(B.bd,s,B.I,B.aQ,q),q)},
 a9C(a,b,c,d,e,f){var s,r,q,p=null,o=this.c
 o.toString
 o=A.Z(o).WJ(B.n)
@@ -98132,7 +98132,7 @@ a7N(a){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g=t.w,f=A.bQ(a,h,g).w.a.b,e=A.bQ(a,
 g=t.CJ
 s=A.b([A.B6(h,h,h,A.cs(8e5,0),h)],g)
 r=t.p
-s=A.b([A.cE(A.f8(A.LK(h,h,A.ro("animations/wave_lines.json",h,B.fD,h,h,!0,e),h,h,s,h,h,h,h,h,h),h,h),f*0.33,h)],r)
+s=A.b([A.cE(A.f8(A.LK(h,h,A.ro("assets/animations/wave_lines.json",h,B.fD,h,h,!0,e),h,h,s,h,h,h,h,h,h),h,h),f*0.33,h)],r)
 if(!d)s.push(new A.ce(B.GJ,new A.eS(B.mc,h,h,A.bV("Trendera",h,h,h,A.c2(h,h,B.k,h,h,h,h,h,h,h,h,e*0.09,h,h,B.as,h,1.2,!0,h,h,h,h,h,h,h,h),h,h),h),h))
 q=d?20:h
 p=A.mL(a).IL(!1)
@@ -98149,7 +98149,7 @@ j=A.AW(h,h,B.j,h,h,h,h,h,h,h,h,h,h,h,new A.d1(A.bX(30),B.v),h,h,h,h)
 s.push(A.aE0(0,A.dK(h,A.aKj(A.amN(p,A.T6(A.dv(A.b([new A.ce(B.GI,o,h),n,B.fi,m,B.fi,l,B.fj,A.cE(A.a94(!1,A.bV("CREATE ACCOUNT",h,h,h,A.c2(h,h,B.k,h,h,h,h,h,h,h,h,h,h,h,h,h,h,!0,h,h,h,h,h,h,h,h),h,h),h,h,h,h,h,h,k,h,j),50,1/0),B.fi],r),B.a4,B.H,B.P),h,B.Cn)),i.d),B.w,h,h,B.Cu,f*0.67,h,h,B.GL,h),B.er,B.bq,0,0,q))
 if(i.z){r=$.V().p6(5,5,h)
 g=A.b([A.B6(h,h,h,A.cs(8e5,0),h)],g)
-s.push(A.wf(0,A.up(A.f8(A.LK(h,h,A.ro("animations/mobile_loading.json",h,h,h,h,!0,h),h,h,g,h,h,h,h,h,h),h,h),r)))}return A.So(h,B.j,A.Es(!0,A.ha(B.bd,s,B.I,B.aQ,h),!0,B.aB,!0,!0),!1)},
+s.push(A.wf(0,A.up(A.f8(A.LK(h,h,A.ro("assets/animations/mobile_loading.json",h,h,h,h,!0,h),h,h,g,h,h,h,h,h,h),h,h),r)))}return A.So(h,B.j,A.Es(!0,A.ha(B.bd,s,B.I,B.aQ,h),!0,B.aB,!0,!0),!1)},
 S2(a,b,c){var s=null,r=A.c2(s,s,B.ct,s,s,s,s,s,s,s,s,10,s,s,s,s,0.5,!0,s,s,s,s,s,s,s,s),q=A.o5(c,s,s,16),p=A.bX(30),o=A.bX(30),n=A.bX(30)
 return A.apw(b,s,A.ob(s,new A.cD(4,p,B.cG),s,B.dr,s,s,s,s,!0,new A.cD(4,o,B.e2),s,new A.cD(4,A.bX(30),B.fB),s,r,s,B.n,!0,s,s,s,s,new A.cD(4,n,B.fA),s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,a,!0,s,s,s,s,s,s,s,s,q,s,s,s,s),s,s,1,!1,s,s,new A.azh(a))}}
 A.azi.prototype={
